@@ -18,7 +18,7 @@ You can access the live demo of Kittytodolist [here](https://kittytodolist.web.a
 - HTML
 - CSS
 - JavaScript
-- Firebase (Firestore for data storage)
+
 
 ## Installation
 
